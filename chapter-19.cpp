@@ -1,4 +1,4 @@
-#include "std_lib_facilities.h
+#include "std_lib_facilities.h"
 
 template<typename T> //template passes data type as a parameter so that we don’t need to write the same code for different data type
 struct S  //we use struct to group the following 1 place
